@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(315): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(323): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(688): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(771): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(796): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(797): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(798): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(1390): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(1625): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(1630): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(1635): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(1640): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(1646): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(1652): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(1669): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(1683): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(1698): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\NAJMUS\source\repos\finalpro\Source.cpp(1708): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  finalpro.vcxproj -> C:\Users\NAJMUS\source\repos\finalpro\Debug\finalpro.exe
